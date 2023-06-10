@@ -1,2 +1,2 @@
 #!/bin/bash
-find /tmp/u [A-Z]* exec mv {} /tmp/u \
+mv [[:upper:]]* /tmp/u
